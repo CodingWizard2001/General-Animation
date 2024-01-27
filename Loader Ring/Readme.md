@@ -1,4 +1,4 @@
-# Animated Bar
+# Loader Ring
 
 ## Definition
 
